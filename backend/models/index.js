@@ -78,5 +78,5 @@ export {
   Feedback,
   Rating,
   VenueFeedback,
-  WeeklyMenu  
+  WeeklyMenu
 };
